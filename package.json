@@ -1,0 +1,12 @@
+{
+  "name": "youtube-downloader",
+  "main": "index.js",
+  "author": "santraez",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "youtube-exec": "^1.0.4"
+  }
+}
